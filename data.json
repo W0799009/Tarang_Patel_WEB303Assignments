@@ -1,0 +1,51 @@
+  [{
+      "Movies_id":"1",
+      "Type":"family",
+      "firstname":"James",
+      "Writer":"xuz",
+      "lastname":"Miller"
+     },
+     {
+      "Movies_id":"2",
+      "Type":"Action",
+      "firstname":"Robert",
+      "Writer":"koia",
+      "lastname":"Garcia"
+    },
+    {
+      "Movies_id":"3",
+      "Type":"Drama",
+      "firstname":"Alexander",
+      "Writer":"haera pheri",
+      "lastname":"Jones"
+     },
+{
+      "Movies_id":"4",
+      "Type":"Action",
+      "firstname":"Stella",
+      "Writer":"jd sjss",
+      "lastname":"Brown"
+     },
+{
+      "Movies_id":"5",
+      "Type":"Science Fiction",
+      "firstname":"Owen",
+      "Writer":"xuz",
+      "lastname":"Williams"
+     },
+{
+      "Movies_id":"6",
+      "Type":"Horror",
+      "firstname":"Lily",
+      "Writer":"xuz",
+      "lastname":"Johnson"
+     },
+{
+      "Movies_id":"7",
+      "Type":"fuuny",
+      "firstname":"Elijah",
+      "Writer":"xuz",
+      "lastname":"Smith"
+     }
+
+]

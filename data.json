@@ -1,0 +1,73 @@
+[{
+  "Movies_id":"1",
+  "firstname":"James",
+  "lastname":"Miller",
+  "Writer":"xuz",
+  "Type":"family",
+"date": "04-05-2022",
+"email": "joelle@mailinator.com"
+ },
+ {
+  "Movies_id":"2",
+  "firstname":"Robert",
+  "lastname":"Garcia",
+  "Writer":"koia",
+  "Type":"Action",
+  "date": "06-06-2022",
+  "email": "amitsinha111o@mailinator.com"
+},
+{
+  "Movies_id":"3",
+  "firstname":"Alexander",
+  "lastname":"Jones",
+  "Writer":"haera pheri",
+  "Type":"Drama",
+"date": "08-04-2022",
+"email": "rarw123@patel.com"
+
+
+ },
+{
+  "Movies_id":"4",
+  "firstname":"Stella",
+  "lastname":"Brown",
+  "Writer":"jd sjss",
+  "Type":"Action",
+"date": "10-23-2022",
+"email": "vekhela12@mchavr.com"
+
+ },
+{
+  "Movies_id":"5",
+  "firstname":"Owen",
+  "lastname":"Williams",
+  "Writer":"xuz",
+  "Type":"Science Fiction",
+"date": "12-04-2021",
+"email": "irthavda@mahesvhr.com"
+
+ },
+{
+  "Movies_id":"6",
+  "firstname":"Lily",
+   "lastname":"Johnson",
+   "Writer":"xuz",
+  "Type":"Horror",
+"date": "10-22-2021",
+"email": "kiavda@kdjfuiar.com"
+
+
+ },
+{
+  "Movies_id":"7",
+  "firstname":"Elijah",
+  "lastname":"Smith",
+  "Writer":"xuz",
+  "Type":"fuuny",
+"date": "1-21-2021",
+"email": "tichavda@tarang.com"
+
+
+ }
+
+]
